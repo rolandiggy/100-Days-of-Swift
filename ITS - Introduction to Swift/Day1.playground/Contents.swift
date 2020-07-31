@@ -24,6 +24,7 @@ Single \
 Line \
 Output
 """
+print(singleStr)
 
 // interpolation backslash parentheses
 let vegeta = "It's Over \(powerLevel)!!"
